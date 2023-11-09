@@ -1,0 +1,14 @@
+C:\Users\corvus\mi-primera-vez\bin\Debug\net7.0\mi-primera-vez.exe
+C:\Users\corvus\mi-primera-vez\bin\Debug\net7.0\mi-primera-vez.deps.json
+C:\Users\corvus\mi-primera-vez\bin\Debug\net7.0\mi-primera-vez.runtimeconfig.json
+C:\Users\corvus\mi-primera-vez\bin\Debug\net7.0\mi-primera-vez.dll
+C:\Users\corvus\mi-primera-vez\bin\Debug\net7.0\mi-primera-vez.pdb
+C:\Users\corvus\mi-primera-vez\obj\Debug\net7.0\mi-primera-vez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corvus\mi-primera-vez\obj\Debug\net7.0\mi-primera-vez.AssemblyInfoInputs.cache
+C:\Users\corvus\mi-primera-vez\obj\Debug\net7.0\mi-primera-vez.AssemblyInfo.cs
+C:\Users\corvus\mi-primera-vez\obj\Debug\net7.0\mi-primera-vez.csproj.CoreCompileInputs.cache
+C:\Users\corvus\mi-primera-vez\obj\Debug\net7.0\mi-primera-vez.dll
+C:\Users\corvus\mi-primera-vez\obj\Debug\net7.0\refint\mi-primera-vez.dll
+C:\Users\corvus\mi-primera-vez\obj\Debug\net7.0\mi-primera-vez.pdb
+C:\Users\corvus\mi-primera-vez\obj\Debug\net7.0\mi-primera-vez.genruntimeconfig.cache
+C:\Users\corvus\mi-primera-vez\obj\Debug\net7.0\ref\mi-primera-vez.dll
